@@ -9,8 +9,7 @@ import {
     formatExpirationDate,
     formatFormData
 } from "./utils";
-
-import 'react-credit-cards-2/dist/es/styles-compiled.css';
+import 'react-credit-cards-2/dist/es/styles-compiled.css'
 
 export { CreateCard }
 
